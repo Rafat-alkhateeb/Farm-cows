@@ -91,3 +91,7 @@ button.b{
   height: 38px;
   background:url("/Frame-1.png" ) no-repeat;
 }
+.pos_foot { 
+  position: relative ; 
+  bottom:  90%;
+}
